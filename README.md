@@ -20,7 +20,7 @@ A clean, structured **Online Job Application Form** built using semantic HTML5 a
 
 ## 📸 Preview
 
-![Form Preview]()
+![Form Preview](https://github.com/suneel95/job-application-form/blob/7cc6c2e9c98c480555f1704ed94b1a300a092796/form%20view.png)
 
 ## 🚀 Getting Started
 
